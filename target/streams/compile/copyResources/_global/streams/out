@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amal/Documents/TA SOEN 6441/Lab Self/DependencyWithAkka/Lab_9_actors_and_dependency_injection/conf/logback.xml,/Users/amal/Documents/TA SOEN 6441/Lab Self/DependencyWithAkka/Lab_9_actors_and_dependency_injection/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amal/Documents/TA SOEN 6441/Lab Self/DependencyWithAkka/Lab_9_actors_and_dependency_injection/conf/application.conf,/Users/amal/Documents/TA SOEN 6441/Lab Self/DependencyWithAkka/Lab_9_actors_and_dependency_injection/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amal/Documents/TA SOEN 6441/Lab Self/DependencyWithAkka/Lab_9_actors_and_dependency_injection/conf/routes,/Users/amal/Documents/TA SOEN 6441/Lab Self/DependencyWithAkka/Lab_9_actors_and_dependency_injection/target/scala-2.13/classes/routes)[0m
